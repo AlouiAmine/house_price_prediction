@@ -10,9 +10,9 @@ Beyond simply producing a well-performing model for making predictions, in this 
 
 # Dataset Description
 * Files
-train.csv - The training dataset;
-test.csv - The test dataset;
-data_description.txt - Full description of each column.
+-train.csv - The training dataset;
+-test.csv - The test dataset;
+-data_description.txt - Full description of each column.
 * Attributes
 A brief outline of the available attributes is given below:
 
